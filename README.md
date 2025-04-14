@@ -20,9 +20,7 @@
     DS：串行数据输入引脚
     VCC：正电源电压。
     GND：大地。
-## 接线图
-![repo-settings-image](images/1.jpg)
-![repo-settings-image](images/2.jpg)    
+
 ## 使用方法
 ``` c
 #include "74HC595.h"
@@ -63,3 +61,8 @@ LINQQ001
 - 1.0.0 初始版本
 
 
+## 接线图
+<!-- ![repo-settings-image](https://gitee.com/linqq001/test/raw/main/images/1.jpg)
+![repo-settings-image](https://gitee.com/linqq001/test/raw/main/images/2.jpg) -->
+<img align="left" src="https://gitee.com/linqq001/test/raw/main/images/1.jpg">
+<img align="left" src="https://gitee.com/linqq001/test/raw/main/images/2.jpg">    
