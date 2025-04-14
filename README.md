@@ -21,8 +21,8 @@
     VCC：正电源电压。
     GND：大地。
 ## 接线图
-![repo-settings-image](https://gitee.com/linqq001/esp32s3-components-all/raw/main/components/74HC595/1.jpg)
-![repo-settings-image](https://gitee.com/linqq001/esp32s3-components-all/raw/main/components/74HC595/2.jpg)    
+![repo-settings-image](images/1.jpg)
+![repo-settings-image](images/2.jpg)    
 ## 使用方法
 ``` c
 #include "74HC595.h"
